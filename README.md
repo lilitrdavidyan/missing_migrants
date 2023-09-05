@@ -95,7 +95,7 @@ To view the visualizations:
 
 For a summarized overview of the analysis and key findings, you can refer to the included presentation:
 
-![Missing Migrants Project Analysis Presentation](/slides/MISSING MIGRANTS PROJECT.pdf)
+[Missing Migrants Project Analysis Presentation](/slides/MISSING MIGRANTS PROJECT.pdf)
 
 This presentation provides a concise walkthrough of the project, highlighting the main insights and visualizations from the analysis.
 
@@ -103,7 +103,7 @@ This presentation provides a concise walkthrough of the project, highlighting th
 
 For a more interactive exploration of the data and additional visualizations, check out our dashboard on Tableau Public:
 
-![Missing Migrants Project Analysis Dashboard**](https://public.tableau.com/app/profile/lilit.davidyan/viz/missing_migrants/WorldMap)
+[Missing Migrants Project Analysis Dashboard**](https://public.tableau.com/app/profile/lilit.davidyan/viz/missing_migrants/WorldMap)
 
 This dashboard provides dynamic visualizations, allowing you to dive deeper into specific aspects of the data and customize your view.
 
